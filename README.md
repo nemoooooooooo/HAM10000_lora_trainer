@@ -1,10 +1,10 @@
 # HAM10000 FLUX LoRA - Synthetic Dermoscopy Image Generator
 
-A LoRA (Low-Rank Adaptation) fine-tuning implementation for FLUX.1-dev model to generate synthetic dermoscopy images of skin lesions, trained on the HAM10000 dataset for multi-class dermatological image synthesis.
+A LoRA (Low-Rank Adaptation) fine-tuning implementation for FLUX.1-dev model to generate synthetic dermoscopy images of skin lesions, trained on the HAM10000 dataset for Melanoma dermatological image synthesis.
 
 ## Overview
 
-This project fine-tunes the FLUX.1-dev model using LoRA to generate high-quality synthetic dermoscopy images across multiple skin lesion categories. The model can be used for data augmentation.
+This project fine-tunes the FLUX.1-dev model using LoRA to generate high-quality synthetic dermoscopy images of Melanoma lesion category. The model can be used for data augmentation.
 
 
 ## Quick Start
